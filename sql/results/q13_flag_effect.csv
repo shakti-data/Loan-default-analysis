@@ -1,0 +1,5 @@
+flag,flag_value,loans,default_rate_pct
+high_lti_flag,0,231737,10.09
+high_lti_flag,1,23610,26.55
+tenure_flag,0,228701,10.82
+tenure_flag,1,26646,18.45

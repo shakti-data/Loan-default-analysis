@@ -1,0 +1,4 @@
+risk_band,loans,pct_of_loans,defaults,pct_of_defaults,default_rate_pct
+1. Low (0-1),96013,37.6,7012.0,23.65,7.3
+2. Medium (2-3),133408,52.25,16383.0,55.25,12.28
+3. High (4-6),25926,10.15,6258.0,21.1,24.14

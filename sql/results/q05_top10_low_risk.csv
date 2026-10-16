@@ -1,0 +1,11 @@
+rnk,dimension,segment,loans,default_rate_pct,risk_lift
+1,Age band,65+,24519,4.85,0.42
+2,Age band,55-64,49100,5.96,0.51
+3,Interest rate band,1. <8%,66386,6.61,0.57
+4,Loan amount band,1. <50k,47090,8.06,0.69
+5,Loan-to-income band,1. <1x,80675,8.18,0.7
+6,Age band,45-54,49069,8.75,0.75
+7,Job tenure band,4. 5+ yrs,127724,8.95,0.77
+8,Income band,4. 100k+,94568,9.1,0.78
+9,Loan amount band,2. 50k-100k,51976,9.44,0.81
+10,Employment type,Full-time,63656,9.46,0.81

@@ -1,0 +1,3 @@
+customer_group,loans,avg_age,avg_income,avg_loan_amount,avg_loan_to_income,avg_credit_score,avg_months_employed,avg_interest_rate,avg_dti
+Defaulted,29653,36.6,71845.0,144515.0,3.25,559.0,50.2,15.9,0.51
+Did not default,225694,44.4,83899.0,125354.0,2.04,576.0,60.8,13.18,0.5

@@ -1,0 +1,18 @@
+dimension,lowest_rate_pct,highest_rate_pct,spread_pts
+Loan-to-income band,8.18,26.55,18.37
+Age band,4.85,21.03,16.18
+Interest rate band,6.61,17.82,11.21
+Income band,9.1,19.03,9.93
+Job tenure band,8.95,16.97,8.02
+Loan amount band,8.06,15.79,7.73
+Employment type,9.46,13.55,4.09
+Has co-signer,10.36,12.87,2.51
+Open credit lines,10.52,12.94,2.42
+Credit score band,10.18,12.47,2.29
+Education,10.59,12.88,2.29
+Has dependents,10.5,12.72,2.22
+Marital status,10.4,12.53,2.13
+Loan purpose,10.23,12.33,2.1
+DTI band,10.36,12.23,1.87
+Has mortgage,10.88,12.35,1.47
+Loan term (months),11.57,11.7,0.13

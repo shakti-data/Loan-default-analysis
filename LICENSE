@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2026 Shakti Singh
+Copyright (c) 2026 Shakti
+
+This licence covers the SQL scripts, documentation and Power BI guide in this
+repository. It does not cover the dataset, which belongs to its original
+authors (see data/README.md).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

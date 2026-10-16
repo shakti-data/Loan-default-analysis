@@ -1,0 +1,9 @@
+EmploymentType,HasCoSigner,loans,default_rate_pct
+Full-time,No,31739,10.46
+Full-time,Yes,31917,8.47
+Part-time,No,32190,13.22
+Part-time,Yes,31971,10.7
+Self-employed,No,31855,12.71
+Self-employed,Yes,31851,10.21
+Unemployed,No,31862,15.06
+Unemployed,Yes,31962,12.05

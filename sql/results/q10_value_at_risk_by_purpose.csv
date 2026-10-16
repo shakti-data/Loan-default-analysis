@@ -1,0 +1,6 @@
+LoanPurpose,loans,default_rate_pct,defaulted_loan_value,share_of_defaulted_value_pct
+Business,51298,12.33,907676057.0,21.18
+Auto,50844,11.88,880252835.0,20.54
+Other,50914,11.79,868921638.0,20.28
+Education,51005,11.84,866652579.0,20.22
+Home,51286,10.23,761809422.0,17.78
